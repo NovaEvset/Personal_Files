@@ -27,3 +27,11 @@
 0.0.0.0 p2plog.douyucdn.cn
 0.0.0.0 stun1.douyucdn.cn
 0.0.0.0 stun.douyucdn.cn
+0.0.0.0 htrace.wetvinfo.com
+0.0.0.0 rmonitor.qq.com
+0.0.0.0 tpstelemetry.tencent.com
+0.0.0.0 report.gamecenter.qq.com
+0.0.0.0 events.data.microsoft.com
+0.0.0.0 nelreports.net
+0.0.0.0 clarity.ms
+0.0.0.0 httpdns.bilivideo.com
